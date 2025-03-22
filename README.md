@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Benjamin, an aspring business analyst with experience on several technical projects within the TripleTen Business Intelligence program. I have demonstrated skill in using spreadsheets, SQL, Tableau, and Power BI.
+
+- I'm currently working in retail at Whole Foods Market, where I contribute to their goal of "Nourish People and the Planet" through sincere customer service, encouraging and supporting my co-workers, and working with leadership to improve working conditions and methods.
+- I took the voluntary initiative to study and become a certified Advanced Culture Champion within the company- learning about leadership, team building, sustainable foods, quality standards, and global efforts to improve food access and fight poverty through business micro-finance.  
+
+My 15 years of work experience displays hardworking service and innovative initiative in every position. 
+- While serving Frontside Cafe in Ventura CA, I undertook inventory control, facilities maintenance, and acted as a business contact in addition to regular food service duties.
+- As an independent sub-contractor for Lowe's performing fence installations, 
+
+
 <!--
 **benjaminbretey/benjaminbretey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
